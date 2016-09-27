@@ -1,0 +1,10 @@
+{
+  "name": "simple-uglyfi",
+  "version": "0.1.0",
+  "scripts": {
+    "compress": "node uglify_core.js"
+  },
+  "devDependencies": {
+    "uglify-js": "^2"
+  }
+}
